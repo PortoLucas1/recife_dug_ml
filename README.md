@@ -42,4 +42,5 @@ Público: profissionais e estudantes que já conhecem SQL/Python e querem ver **
 * Dados sintéticos gerados no próprio notebook — não há dados reais de clientes.
 * Endpoints usam scale-to-zero: a primeira requisição após um período parado tem cold start de alguns segundos.
 * Cada demo termina com uma célula de limpeza (comentada, protegida por confirmação) para remover os objetos criados, se você quiser.
+* Avatares dos clientes do demo (Ana, Bruno e Carlos): ícones criados por [Magnific](https://www.flaticon.com/authors/magnific), distribuídos via [Flaticon](https://www.flaticon.com/).
 
